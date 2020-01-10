@@ -1,0 +1,61 @@
+
+create_player_screen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cp_background
+  rotate: false
+  xy: 1, 117
+  size: 1024, 728
+  orig: 1024, 728
+  offset: 0, 0
+  index: -1
+cp_textfield
+  rotate: false
+  xy: 1, 88
+  size: 278, 27
+  orig: 278, 27
+  offset: 0, 0
+  index: -1
+cp_slider
+  rotate: false
+  xy: 1027, 839
+  size: 272, 6
+  orig: 272, 6
+  offset: 0, 0
+  index: -1
+cp_button_hover
+  rotate: false
+  xy: 1, 51
+  size: 116, 35
+  orig: 116, 35
+  offset: 0, 0
+  index: -1
+cp_button_normal
+  rotate: false
+  xy: 1027, 802
+  size: 116, 35
+  orig: 116, 35
+  offset: 0, 0
+  index: -1
+cp_selection
+  rotate: false
+  xy: 1, 1
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+cp_knob
+  rotate: false
+  xy: 281, 95
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+cp_cursor
+  rotate: false
+  xy: 119, 69
+  size: 2, 17
+  orig: 2, 17
+  offset: 0, 0
+  index: -1

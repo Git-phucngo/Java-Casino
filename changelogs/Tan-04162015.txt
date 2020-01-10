@@ -1,0 +1,8 @@
+CHANGE LOGS
+---------------------------------------------
+Tan - 04-16-2015
+	Remove deck object from Main.java line 7
+	Rename deckPlay in Poker.java to deck line 6
+	Add sub-folder poker in card_game and move the Poker.java to there
+	Add new variable numberOfCard to count the number of card in ShuffledCard (add and remove)
+	Add two new methods getNumberOfCard() in Deck.java and Poker.java

@@ -1,0 +1,13 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		default-text: {file: fonts/arial.fnt},
+	},
+	
+	com.badlogic.gdx.graphics.Color: {
+		white: {hex: FBFBFB},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		default: {font: default-text, fontColor: white,},
+	},
+}

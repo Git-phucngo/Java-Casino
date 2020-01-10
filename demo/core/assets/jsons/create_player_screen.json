@@ -1,0 +1,32 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		default-font: {file: fonts/arial.fnt},
+	},
+	
+	com.badlogic.gdx.graphics.Color: {
+		light-blue: {hex: 5B6AEC},
+		dark-red: {hex: 7A2E33},
+		gold: {hex: FFD600},
+		dark-gray: {hex: 0B0B0B},
+		white: {hex: FBFBFB},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		default: {font: default-font, fontColor: white,},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+		default: {
+			up: cp_button_normal, over: cp_button_hover,
+			font: default-font, pressedOffsetY: -2, fontColor: dark-gray,
+		},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+		default-horizontal: { background: cp_slider, knob: cp_knob },
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: { selection: cp_selection, background: cp_textfield, font: default-font, fontColor: dark-red, cursor: cp_cursor }
+},
+}

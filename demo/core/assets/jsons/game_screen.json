@@ -1,0 +1,27 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		default-font: {file: fonts/arial.fnt},
+	},
+	
+	com.badlogic.gdx.graphics.Color: {
+		light-blue: {hex: 5B6AEC},
+		dark-red: {hex: 7A2E33},
+		gold: {hex: FFD600},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		default: {font: default-font, fontColor: light-blue,},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+		default: {
+			up: button_normal, over: button_hover, down: button_normal,
+			font: default-font, pressedOffsetY: -2,
+		},
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+		default-horizontal: { background: slider, knob: knob },
+	},
+	
+}

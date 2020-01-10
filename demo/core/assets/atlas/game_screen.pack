@@ -1,0 +1,68 @@
+
+game_screen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+table
+  rotate: false
+  xy: 1, 160
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 1, 152
+  size: 611, 6
+  orig: 611, 6
+  offset: 0, 0
+  index: -1
+main_player_panel
+  rotate: false
+  xy: 1027, 818
+  size: 227, 110
+  orig: 227, 110
+  offset: 0, 0
+  index: -1
+players_panel
+  rotate: false
+  xy: 1, 38
+  size: 186, 112
+  orig: 186, 112
+  offset: 0, 0
+  index: -1
+avatar_border
+  rotate: false
+  xy: 1027, 700
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+button_press
+  rotate: false
+  xy: 1256, 882
+  size: 142, 46
+  orig: 142, 46
+  offset: 0, 0
+  index: -1
+button_hover
+  rotate: false
+  xy: 1, 1
+  size: 116, 35
+  orig: 116, 35
+  offset: 0, 0
+  index: -1
+button_normal
+  rotate: false
+  xy: 189, 115
+  size: 116, 35
+  orig: 116, 35
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 1027, 679
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
